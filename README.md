@@ -1,3 +1,3 @@
 # pyaip
 
-[AIP-160](https://google.aip.dev/160)
+See [https://aip.dev](https://aip.dev/) for the full AIP documentation.
